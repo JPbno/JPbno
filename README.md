@@ -5,8 +5,8 @@
 • 📬 Meu e-mail é: jppereirabno@gmail.com
 <picture>
 
- <img alt="jsicon" src="[YOUR-DEFAULT-IMAGE](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
-)">
+ <img alt="jsicon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
+">
 </picture>
 
 https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
