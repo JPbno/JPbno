@@ -3,8 +3,12 @@
 • 💻 Estudante de Ánalise e Desenvolvimento de Sistemas (Estácio de Sá) 3° período (2023-2025)
 • 💡 Desenvolvendo projetos e Habilidades em Tecnologias Front-End e Back-End (JavaScript, Java, Python)
 • 📬 Meu e-mail é: jppereirabno@gmail.com
+<picture>
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
+ <img alt="jsicon" src="[YOUR-DEFAULT-IMAGE](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
+)">
+</picture>
+
 https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
 https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
 https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667
