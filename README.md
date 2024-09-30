@@ -3,8 +3,8 @@
 <br>
 <br>
 
-• 💻 Estudante de Ánalise e Desenvolvimento de Sistemas (Estácio de Sá) 3° período (2023-2025)<br>
 • 💡 Desenvolvendo projetos e Habilidades em Tecnologias Front-End, Back-End, Banco de Dados e Conteinerização de Códigos. ( JavaScript, Java, Python, MySQL, NoSQL, PostgreSQL, MongoDB, Docker & Kubernetes )<br>
+• 💻 Estudante de Ánalise e Desenvolvimento de Sistemas (Estácio de Sá) 3° período (2023-2025)<br>
 • 📬 Meu e-mail é: jppereirabno@gmail.com
 <br>
 <br>
